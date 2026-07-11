@@ -70,7 +70,7 @@ Python-by-CodeWithHarry/
 | Chapter 1 Practice Set | ✅ Completed |
 | Chapter 2 | ✅ Completed |
 | Chapter 2 Practice Set | ✅ Completed |
-| Chapter 3 | ⏳ Coming Soon |
+| Chapter 3 | ✅ Completed |
 | Chapter 3 Practice Set | ⏳ Coming Soon |
 | Chapter 4 | ⏳ Coming Soon |
 | Chapter 5 | ⏳ Coming Soon |
