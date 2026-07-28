@@ -81,6 +81,7 @@ Python-by-CodeWithHarry/
 | Chapter 7 | ✅ Completed |
 | Chapter 7 Practice Set |  ✅ Completed |
 | Chapter 8 | ✅ Completed |
+| Chapter 8 Practice Set |  ✅ Completed |
 | Chapter 9 | ⏳ Coming Soon |
 
 ---
