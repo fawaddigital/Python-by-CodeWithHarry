@@ -24,17 +24,19 @@ Learning Python step by step through the **CodeWithHarry Python Course** while b
 
 ## 🔥 GitHub Activity
 
-<div align="center">
+## 🔥 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=fawaddigital&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fawaddigital&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawaddigital&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fawaddigital&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaddigital&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaddigital&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
