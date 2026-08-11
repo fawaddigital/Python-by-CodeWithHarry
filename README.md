@@ -2,41 +2,84 @@
 
 # 🐍 Python by CodeWithHarry
 
-### My Python Learning Journey 🚀
+### 🚀 My Python Learning Journey
 
-Learning Python step by step by following the **CodeWithHarry Python Course**.
+Learning Python step by step through the **CodeWithHarry Python Course** while building consistency, improving problem-solving skills, and sharing my progress on GitHub.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Learner+%F0%9F%90%8D;Future+AI%2FML+Engineer+%F0%9F%A4%96;Building+Projects+and+Learning+Daily+%F0%9F%9A%80;Code.+Learn.+Repeat." />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
 ---
 
-# 📖 About This Repository
+## 🔥 GitHub Activity
 
-This repository contains my Python practice programs, exercises, and chapter-wise solutions while learning Python from the **CodeWithHarry** course.
+<div align="center">
 
-I regularly upload my progress to improve my coding skills and maintain consistency.
+<img src="https://streak-stats.demolab.com?user=fawaddigital&theme=tokyonight&hide_border=true" />
 
----
+<br>
 
-# 🎯 Learning Goals
+<img src="https://github-readme-stats.vercel.app/api?username=fawaddigital&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-- ✅ Learn Python fundamentals
-- ✅ Practice coding every day
-- ✅ Understand Object-Oriented Programming
-- ✅ Build small Python projects
-- ✅ Learn Git & GitHub
-- ✅ Maintain a GitHub contribution streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaddigital&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
-# 📂 Repository Structure
+## 📖 About This Repository
 
-```
+This repository contains my **Python practice programs, exercises, notes, and chapter-wise solutions** while learning Python from the **CodeWithHarry** course.
+
+My goal is to build a strong foundation in programming and prepare for future learning in **Artificial Intelligence and Machine Learning**.
+
+---
+
+## 🎯 Learning Goals
+
+* ✅ Master Python Fundamentals
+* ✅ Improve Problem-Solving Skills
+* ✅ Practice Coding Daily
+* ✅ Learn Object-Oriented Programming (OOP)
+* ✅ Build Real-World Python Projects
+* ✅ Learn Git & GitHub
+* ✅ Explore APIs and Automation
+* ✅ Start AI & Machine Learning
+
+---
+
+## 📚 Course Progress
+
+| Chapter   | Status      |
+| --------- | ----------- |
+| Chapter 1 | ✅ Completed |
+| Chapter 2 | ✅ Completed |
+| Chapter 3 | ✅ Completed |
+| Chapter 4 | ✅ Completed |
+| Chapter 5 | ✅ Completed |
+| Chapter 6 | ✅ Completed |
+| Chapter 7 | ✅ Completed |
+| Chapter 8 | ✅ Completed |
+| Chapter 9 | ✅ Completed |
+
+🎉 **All Chapter Practice Sets Completed**
+
+---
+
+## 📂 Repository Structure
+
+```text
 Python-by-CodeWithHarry/
 │
 ├── Chapter-1/
@@ -62,76 +105,56 @@ Python-by-CodeWithHarry/
 
 ---
 
-# 📚 Progress
+## 🛠️ Tech Stack
 
-| Chapter | Status |
-|----------|--------|
-| Chapter 1 | ✅ Completed |
-| Chapter 1 Practice Set | ✅ Completed |
-| Chapter 2 | ✅ Completed |
-| Chapter 2 Practice Set | ✅ Completed |
-| Chapter 3 | ✅ Completed |
-| Chapter 3 Practice Set | ✅ Completed |
-| Chapter 4 | ✅ Completed |
-| Chapter 4 Practice Set |  ✅ Completed |
-| Chapter 5 | ✅ Completed |
-| Chapter 5 Practice Set |  ✅ Completed |
-| Chapter 6 | ✅ Completed |
-| Chapter 6 Practice Set |  ✅ Completed |
-| Chapter 7 | ✅ Completed |
-| Chapter 7 Practice Set |  ✅ Completed |
-| Chapter 8 | ✅ Completed |
-| Chapter 8 Practice Set |  ✅ Completed |
-| Chapter 9 | ✅ Completed |
-| Chapter 9 Practice Set |  ✅ Completed |
+* Python 3
+* Visual Studio Code
+* Ubuntu Linux
+* Git
+* GitHub
 
 ---
 
-# 🛠️ Tools Used
+## 📅 Daily Learning Log
 
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
-- Ubuntu Linux
+I regularly upload new code, exercises, and practice programs.
+
+Each commit reflects my progress and helps maintain consistency in my learning journey.
 
 ---
 
-# 📅 Daily Updates
+## 🚀 What's Next?
 
-I try to upload new Python programs regularly as I continue learning.
-
-Each commit represents my progress and helps me stay consistent.
-
----
-
-# 📌 Future Plans
-
-- Complete the entire Python course
-- Build Python mini-projects
-- Learn File Handling
-- Learn OOP
-- Learn Modules & Packages
-- Learn APIs
-- Learn Django
+* Build Python Mini Projects
+* Learn Advanced Python Concepts
+* Master File Handling
+* Learn OOP in Depth
+* Explore Modules & Packages
+* Work with APIs
+* Begin AI & Machine Learning Roadmap
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 About Me
 
 **Fawad Ali**
 
-GitHub Profile:
-https://github.com/fawaddigital
+🎓 4th Semester Student — UIIT Rawalpindi
+
+🐍 Learning Python
+
+🤖 Future AI / Machine Learning Engineer
+
+🌐 GitHub: https://github.com/fawaddigital
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my repository!
+### ⭐ Thanks for Visiting!
 
-If you're also learning Python, feel free to explore the code and follow my progress.
+If you're also learning Python, feel free to explore the repository and follow my journey.
 
-Happy Coding! 🚀
+**Happy Coding! 🚀**
 
 </div>
