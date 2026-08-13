@@ -66,14 +66,32 @@ My goal is to build a strong foundation in programming and prepare for future le
 | Chapter   | Status      |
 | --------- | ----------- |
 | Chapter 1 | ✅ Completed |
+| Chapter 1 Practice Set ✅ Completed |
+
 | Chapter 2 | ✅ Completed |
+| Chapter 2 Practice Set ✅ Completed |
+
 | Chapter 3 | ✅ Completed |
+| Chapter 3 Practice Set ✅ Completed |
+
 | Chapter 4 | ✅ Completed |
+| Chapter 4 Practice Set ✅ Completed |
+
 | Chapter 5 | ✅ Completed |
+| Chapter 5 Practice Set ✅ Completed |
+
 | Chapter 6 | ✅ Completed |
+| Chapter 6 Practice Set ✅ Completed |
+
 | Chapter 7 | ✅ Completed |
+| Chapter 7 Practice Set ✅ Completed |
+
 | Chapter 8 | ✅ Completed |
+| Chapter 8 Practice Set ✅ Completed |
+
 | Chapter 9 | ✅ Completed |
+| Chapter 9 Practice Set ✅ Completed |
+
 | Chapter 10 | ✅ Completed |
 | Chapter 10 Practice Set ✅ Completed |
 
