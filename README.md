@@ -62,7 +62,6 @@ My goal is to build a strong foundation in programming and prepare for future le
 ---
 
 ## 📚 Course Progress
-
 | Chapter   | Status      |
 | --------- | ----------- |
 | Chapter 1 | ✅ Completed |
