@@ -125,6 +125,7 @@ Python-by-CodeWithHarry/
 ├── Chapter-9/
 ├── Chapter-9-PS/
 ├── Chapter-10/
+├── Chapter-10-PS/
 ├── Chapter-11-/
 
 └── README.md
