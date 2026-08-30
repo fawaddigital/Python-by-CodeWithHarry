@@ -167,7 +167,7 @@ Each commit reflects my progress and helps maintain consistency in my learning j
 
 **Fawad Ali**
 
-🎓 4th Semester Student — UIIT Rawalpindi
+🎓 5th Semester Student — UIIT Rawalpindi
 
 🐍 Learning Python
 
