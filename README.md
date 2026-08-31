@@ -155,7 +155,6 @@ Each commit reflects my progress and helps maintain consistency in my learning j
 
 * Build Python Mini Projects
 * Learn Advanced Python Concepts
-* Master File Handling
 * Learn OOP in Depth
 * Explore Modules & Packages
 * Work with APIs
