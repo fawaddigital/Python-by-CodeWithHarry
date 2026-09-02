@@ -142,13 +142,6 @@ Python-by-CodeWithHarry/
 
 ---
 
-## 📅 Daily Learning Log
-
-I regularly upload new code, exercises, and practice programs.
-
-Each commit reflects my progress and helps maintain consistency in my learning journey.
-
----
 
 ## 🚀 What's Next?
 
