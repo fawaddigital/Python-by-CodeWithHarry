@@ -156,7 +156,7 @@ Python-by-CodeWithHarry/
 
 ## 👨‍💻 About Me
 
-**Fawad Ali**
+**Fawad Ali Khan**
 
 🎓 5th Semester Student — UIIT Rawalpindi
 
