@@ -95,6 +95,8 @@ My goal is to build a strong foundation in programming and prepare for future le
 | Chapter 10 Practice Set ✅ Completed |
 
 | Chapter 11 | ✅ Completed |
+| Chapter 11 Practice Set ✅ Completed |
+
 
 
 🎉 **All Chapter Practice Sets Completed**
